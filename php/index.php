@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-    <!-- header included here -->
+    <!-- head included here -->
     <!-- ... -->
 
     <body>
